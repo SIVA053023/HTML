@@ -1,0 +1,7 @@
+body{text-align: center;}
+.main{width:"900px";}
+.one{color: blue;}
+.two{align-items: center;}
+.three{display: flex;justify-content: space-between;}
+.four{text-align: center;color:blue ;}
+#cars{background-color: yellow;}
